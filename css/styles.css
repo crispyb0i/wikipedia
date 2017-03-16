@@ -1,0 +1,47 @@
+.logo {
+  width: 110%;
+  height: 110%;
+}
+ul.main {
+  list-style: none;
+}
+
+.featured {
+  height:50%;
+  width:50%;
+  float: left;
+  padding-right; 20px;
+}
+.didyouknow {
+  height:150px;
+  width:210px;
+  float: right;
+}
+
+img.inthenews {
+  float: right;
+  height:125px
+}
+
+.fruit {
+  height:400px;
+}
+
+.fruittext {
+  text-align: inherit;
+}
+
+.simple{
+  float:left;
+}
+
+.simple2{
+float: left;
+}
+
+.simple3 {
+}
+
+div.none {
+  float:right;
+  }
